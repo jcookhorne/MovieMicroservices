@@ -1,13 +1,14 @@
 # MovieMicroservices
 
 Different Services
-User Service - Has to do with logging in users and loading current watchlist  etc.
 
-Movie Service - list of all movies categorized by genre?
+User Service - Has to do with logging in users and loading current watchlist  etc. | Joshua
 
-Rating Service - you can rate movies/ they are organized by their ratings.
+Movie Service - list of all movies categorized by genre? | Hailemichael
 
-Recommendation Service - Based on what you rate movies/genre it will generate a list of movies for user.
+Rating Service - you can rate movies/ they are organized by their ratings. | Hailemichael
+
+Recommendation Service - Based on what you rate movies/genre it will generate a list of movies for user. | Joshua
 
 
 Carousel/Cards example
